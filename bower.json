@@ -1,0 +1,20 @@
+{
+  "name": "lucerna",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Shataev"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/shataev/Lucerna",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0"
+  }
+}
